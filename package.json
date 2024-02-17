@@ -1,0 +1,22 @@
+{
+  "name": "@vuemap/amap-loca-types",
+  "version": "0.0.1",
+  "description": "高德地图Loca2.0 types文件",
+  "main": "index.js",
+  "module": "index.mjs",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "tsc index.d.ts"
+  },
+  "files": ["index.d.ts", "index.mjs", "index.js"],
+  "author": "yangyanggu",
+  "license": "MIT",
+  "repository": "https://github.com/yangyanggu/amap-loca-types",
+  "dependencies": {
+    "@vuemap/amap-jsapi-types": "^0.0.17",
+    "@types/geojson": "^7946.0.14"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.3"
+  }
+}
