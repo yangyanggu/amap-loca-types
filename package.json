@@ -1,6 +1,6 @@
 {
   "name": "@vuemap/amap-loca-types",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "高德地图Loca2.0 types文件",
   "main": "index.js",
   "module": "index.mjs",
