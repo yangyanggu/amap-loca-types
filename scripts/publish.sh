@@ -2,7 +2,7 @@
 
 set -e
 cd ../
-npm publish --access public
+npm publish
 cd -
 
 echo "Publish completed"

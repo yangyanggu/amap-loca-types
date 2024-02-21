@@ -10,6 +10,18 @@
 
 ### tsconfig.json配置示例
 
+#### 配置types
+
+```json
+{
+  "compilerOptions": {
+    "types": ["@vuemap/amap-loca-types"]
+  }
+}
+```
+
+#### 配置files
+
 ```json
 {
   "files": ["node_modules/@vuemap/amap-jsapi-types/index.d.ts", "node_modules/@vuemap/amap-loca-types/index.d.ts"]

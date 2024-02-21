@@ -1,7 +1,8 @@
 {
   "name": "@vuemap/amap-loca-types",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "高德地图Loca2.0 types文件",
+  "keywords": ["amap","loca","高德地图","types"],
   "main": "index.js",
   "module": "index.mjs",
   "typings": "index.d.ts",
@@ -18,5 +19,8 @@
   },
   "devDependencies": {
     "typescript": "^3.7.3"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
